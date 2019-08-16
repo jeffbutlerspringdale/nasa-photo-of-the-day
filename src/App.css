@@ -1,3 +1,7 @@
+html{
+  background-color: #1c1e1f;
+}
+
 .App {
   text-align: center;
 }
@@ -30,4 +34,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  padding-bottom: 10px;
+}
+
+.explanation{
+  color: #c5c1b9;
+}
+
+.copyright {
+  color: #c5c1b9;
+}
+
+.date{
+  color: #c5c1b9;
+  padding-bottom: 20px;
+}
+
+h1{
+  color: #c5c1b9;
 }
